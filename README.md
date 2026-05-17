@@ -91,3 +91,13 @@ This launcher began as a personal quality-of-life project, not a public product 
 At the same time, the story behind the project has value on its own. The real takeaway is not just that a launcher was built, but that a frustrating and nearly abandoned project finally worked once the problem was reframed correctly and the platform was allowed to do more of the heavy lifting.
 
 That is the part most worth sharing. The code may remain private, but the lesson is portable.
+
+## Screenshots
+
+Main launcher window:
+
+![GW2 Account Launcher main window](main-window.png)
+
+Settings window:
+
+![GW2 Account Launcher settings](settings-window.png)
